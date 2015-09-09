@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="MOHAMED\TESTBASE:MOHAMED\Mohamedhamza">
+          <Created>2015-09-09T11:28:12.1317523-07:00</Created>
+          <Type>SQL</Type>
+          <Server>MOHAMED\TESTBASE</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="CreateAttendance.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MOHAMED\TESTBASE:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MOHAMED\TESTBASE</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateAttendance.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreateClassroom.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MOHAMED\TESTBASE:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MOHAMED\TESTBASE</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateClassroom.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreateClassroomStudent.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MOHAMED\TESTBASE:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MOHAMED\TESTBASE</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateClassroomStudent.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Createcourse.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MOHAMED\TESTBASE:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MOHAMED\TESTBASE</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Createcourse.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreateDatabe.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MOHAMED\TESTBASE:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MOHAMED\TESTBASE</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateDatabe.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreateExam.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MOHAMED\TESTBASE:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MOHAMED\TESTBASE</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateExam.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreateExamresult.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MOHAMED\TESTBASE:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MOHAMED\TESTBASE</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateExamresult.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreateExamtype.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MOHAMED\TESTBASE:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MOHAMED\TESTBASE</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateExamtype.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreateGrade.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MOHAMED\TESTBASE:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MOHAMED\TESTBASE</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateGrade.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreateParents.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MOHAMED\TESTBASE:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MOHAMED\TESTBASE</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateParents.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreateStudent.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MOHAMED\TESTBASE:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MOHAMED\TESTBASE</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateStudent.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreateTeacher.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MOHAMED\TESTBASE:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MOHAMED\TESTBASE</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateTeacher.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
